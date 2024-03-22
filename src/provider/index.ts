@@ -1,4 +1,4 @@
-import BotWhatsapp from '@bot-whatsapp/bot';
-import ProviderWS from '@bot-whatsapp/provider/baileys'
+import BotWhatsaap from '@bot-whatsapp/bot'; 
+import ProviderWS from '@bot-whatsapp/provider/baileys';
 
-export default BotWhatsapp.createProvider(ProviderWS)
+export default BotWhatsaap.createProvider(ProviderWS);

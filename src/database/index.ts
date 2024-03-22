@@ -1,2 +1,3 @@
 import MockAdapter from '@bot-whatsapp/database/mock';
-export default new MockAdapter()
+
+export default new MockAdapter();
